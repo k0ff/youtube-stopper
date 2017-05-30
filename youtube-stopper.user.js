@@ -4,8 +4,8 @@
 // @released 2015-08-30
 // @updated 2015-09-01
 // @description Script for stopping Youube's Video on opened tab in background
-// @downloadURL https://k0ff.tk/youtube-stopper/youtube-stopper.user.js
-// @updateURL https://k0ff.tk/youtube-stopper/youtube-stopper.user.js
+// @downloadURL https://raw.githubusercontent.com/k0ff/youtube-stopper/master/youtube-stopper.user.js
+// @updateURL https://raw.githubusercontent.com/k0ff/youtube-stopper/master/youtube-stopper.user.js
 // @icon https://k0ff.tk/youtube-stopper/youtube-stopper.icon.png
 // @namespace http:/k0ff.tk/youtube-stopper/
 // @include http*://*.youtube.com/*
